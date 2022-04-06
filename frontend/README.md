@@ -11,7 +11,7 @@ or
 $ yarn install
 ```
 
-### Basic usage
+### usage
 
 ``` bash
 # dev server with hot reload at http://localhost:3000
