@@ -1,0 +1,36 @@
+<annotation>
+	<filename>265367594_253575356868167_6190331874193569280_n-270-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>310</ymin>
+			<xmax>526</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>646</ymin>
+			<xmax>694</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

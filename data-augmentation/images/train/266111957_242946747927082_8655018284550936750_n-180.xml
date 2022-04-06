@@ -1,0 +1,36 @@
+<annotation>
+	<filename>266111957_242946747927082_8655018284550936750_n-180.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>263</ymin>
+			<xmax>486</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>496</ymin>
+			<xmax>525</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

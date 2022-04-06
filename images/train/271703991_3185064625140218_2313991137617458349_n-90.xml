@@ -1,0 +1,24 @@
+<annotation>
+	<filename>271703991_3185064625140218_2313991137617458349_n-90.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>748</height>
+		<width>748</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>196</ymin>
+			<xmax>439</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>

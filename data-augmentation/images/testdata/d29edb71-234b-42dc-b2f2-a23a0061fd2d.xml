@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img2</folder>
+	<filename>d29edb71-234b-42dc-b2f2-a23a0061fd2d.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\img2\d29edb71-234b-42dc-b2f2-a23a0061fd2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>497</ymin>
+			<xmax>816</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

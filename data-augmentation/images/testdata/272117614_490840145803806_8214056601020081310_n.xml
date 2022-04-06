@@ -1,0 +1,26 @@
+<annotation>
+	<folder>totest</folder>
+	<filename>272117614_490840145803806_8214056601020081310_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\AugmentLabelIMG-master\totest\272117614_490840145803806_8214056601020081310_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>343</ymin>
+			<xmax>517</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

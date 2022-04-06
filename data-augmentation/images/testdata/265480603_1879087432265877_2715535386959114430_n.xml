@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>265480603_1879087432265877_2715535386959114430_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\265480603_1879087432265877_2715535386959114430_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>285</ymin>
+			<xmax>482</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>307</ymin>
+			<xmax>566</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

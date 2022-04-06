@@ -1,0 +1,36 @@
+<annotation>
+	<filename>265312293_237589358456479_249884567559795277_n-90.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>720</height>
+		<width>960</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>190</ymin>
+			<xmax>403</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>307</ymin>
+			<xmax>638</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

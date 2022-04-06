@@ -1,0 +1,36 @@
+<annotation>
+	<filename>265189701_1089328838536714_718489076585725801_n-90-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>720</height>
+		<width>960</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>414</ymin>
+			<xmax>453</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>112</ymin>
+			<xmax>275</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

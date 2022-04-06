@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>270073285_708222560149104_6096046797724144302_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\270073285_708222560149104_6096046797724144302_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>377</ymin>
+			<xmax>492</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>210</ymin>
+			<xmax>720</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

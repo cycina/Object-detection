@@ -1,0 +1,24 @@
+<annotation>
+	<filename>265159500_3201821263379333_8866869409454996253_n-180.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>253</ymin>
+			<xmax>427</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

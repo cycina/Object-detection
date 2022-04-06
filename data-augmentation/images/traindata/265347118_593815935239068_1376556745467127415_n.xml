@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>265347118_593815935239068_1376556745467127415_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\265347118_593815935239068_1376556745467127415_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>384</ymin>
+			<xmax>480</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>totest</folder>
+	<filename>271592769_439143627951987_1022140899457662536_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\AugmentLabelIMG-master\totest\271592769_439143627951987_1022140899457662536_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>277</ymin>
+			<xmax>492</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

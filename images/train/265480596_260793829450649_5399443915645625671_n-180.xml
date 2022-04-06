@@ -1,0 +1,24 @@
+<annotation>
+	<filename>265480596_260793829450649_5399443915645625671_n-180.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>265</ymin>
+			<xmax>661</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

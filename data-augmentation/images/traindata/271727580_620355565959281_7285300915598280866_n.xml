@@ -1,0 +1,26 @@
+<annotation>
+	<folder>totest</folder>
+	<filename>271727580_620355565959281_7285300915598280866_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\AugmentLabelIMG-master\totest\271727580_620355565959281_7285300915598280866_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>264</ymin>
+			<xmax>649</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

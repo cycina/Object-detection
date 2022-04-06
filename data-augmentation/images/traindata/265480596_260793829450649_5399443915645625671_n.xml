@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>265480596_260793829450649_5399443915645625671_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\265480596_260793829450649_5399443915645625671_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>280</ymin>
+			<xmax>493</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

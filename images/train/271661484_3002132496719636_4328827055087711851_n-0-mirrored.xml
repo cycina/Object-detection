@@ -1,0 +1,24 @@
+<annotation>
+	<filename>271661484_3002132496719636_4328827055087711851_n-0-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>245</ymin>
+			<xmax>677</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

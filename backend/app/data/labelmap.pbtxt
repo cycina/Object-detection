@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'UNO R3'
+}
+
+item {
+  id: 2
+  name: '5V EXPANSION'
+}
+
+item {
+  id: 3
+  name: 'SENSOR'
+}
+
+item {
+  id: 4
+  name: 'MOTOR'
+}
+
+item {
+  id: 5
+  name: 'BATTERY BOX'
+}

@@ -1,0 +1,36 @@
+<annotation>
+	<filename>e4461571-f2fd-4262-b51e-345fee589d53-180.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>1515</ymin>
+			<xmax>1075</xmax>
+			<ymax>1915</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>798</ymin>
+			<xmax>796</xmax>
+			<ymax>1439</ymax>
+		</bndbox>
+	</object>
+</annotation>

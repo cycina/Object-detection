@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>265826511_346572983941699_2261966055441481768_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\265826511_346572983941699_2261966055441481768_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>602</ymin>
+			<xmax>491</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

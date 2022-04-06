@@ -1,0 +1,24 @@
+<annotation>
+	<filename>265575408_698441047754960_5677991181648462431_n-270-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>281</ymin>
+			<xmax>517</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

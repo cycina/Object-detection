@@ -1,0 +1,24 @@
+<annotation>
+	<filename>271878790_207560518255182_6546705569411504306_n-90.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>748</height>
+		<width>748</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>112</ymin>
+			<xmax>591</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

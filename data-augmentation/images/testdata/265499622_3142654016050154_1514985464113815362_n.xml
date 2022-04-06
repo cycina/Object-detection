@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>265499622_3142654016050154_1514985464113815362_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\265499622_3142654016050154_1514985464113815362_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>277</ymin>
+			<xmax>388</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

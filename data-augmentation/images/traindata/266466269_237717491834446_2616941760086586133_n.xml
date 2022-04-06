@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data</folder>
+	<filename>266466269_237717491834446_2616941760086586133_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\pfe\data\266466269_237717491834446_2616941760086586133_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5V EXPANSION</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>412</ymin>
+			<xmax>548</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>636</ymin>
+			<xmax>556</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BATTERY BOX</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>213</ymin>
+			<xmax>720</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

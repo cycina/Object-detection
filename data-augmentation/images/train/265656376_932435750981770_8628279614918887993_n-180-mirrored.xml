@@ -1,0 +1,24 @@
+<annotation>
+	<filename>265656376_932435750981770_8628279614918887993_n-180-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>253</ymin>
+			<xmax>529</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

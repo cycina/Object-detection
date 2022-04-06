@@ -1,0 +1,24 @@
+<annotation>
+	<filename>265835626_615225053120157_3831620305404337830_n-0.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>185</ymin>
+			<xmax>612</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

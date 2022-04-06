@@ -1,0 +1,24 @@
+<annotation>
+	<filename>266232700_2990855504558222_7547028546609766980_n-180-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SENSOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>510</ymin>
+			<xmax>419</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

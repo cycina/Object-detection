@@ -1,0 +1,24 @@
+<annotation>
+	<filename>271545746_974896180123280_8556518719806651572_n-90-mirrored.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>748</height>
+		<width>748</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>142</ymin>
+			<xmax>545</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

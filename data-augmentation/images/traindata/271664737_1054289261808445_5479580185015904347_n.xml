@@ -1,0 +1,26 @@
+<annotation>
+	<folder>totest</folder>
+	<filename>271664737_1054289261808445_5479580185015904347_n.jpg</filename>
+	<path>C:\Users\cyrin\OneDrive\Bureau\AugmentLabelIMG-master\totest\271664737_1054289261808445_5479580185015904347_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UNO R3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>269</ymin>
+			<xmax>354</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
